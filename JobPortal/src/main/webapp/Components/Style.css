@@ -1,0 +1,22 @@
+.bg-custom {
+	background: #000000 !important;	
+	/* #8e24aa; #aa00ff */
+}
+
+.navbar .nav-item .nav-link {
+	font-size: 20px;
+	color: white;		
+}
+
+.navbar .nav-item:hover .nav-link {
+	background: white;
+	color: black;	
+	border-radius: 10px;
+}
+
+.footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:40px;   
+}
